@@ -1,0 +1,130 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    background-color: #e4e3e3;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.banner-image {
+    width: 100%;
+    height:300px;
+    background-color: gray;
+    margin-bottom:20px
+}
+
+.logo{
+    color: black
+}
+
+.logo, .navbar{
+    position: relative;
+    align-items: top ;
+}
+
+.navbar {
+    padding: 0;
+    float: right;
+    
+}
+
+li {
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+    
+}
+
+header a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px
+}
+
+.box1{
+    width:100%;
+    height:200px;
+    background-color: grey;
+}
+
+.container1 p {
+    float: right;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-orientation: center;
+    width: 48%;
+}
+
+.container2{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(13, 13, 34);
+}
+
+#text0{
+    margin-left: 30%;
+}
+
+.box, .box2, .box3{
+    display:inline-block;
+    position: relative;
+    margin-left: 70px; 
+    float: center;
+    width:25%;
+    height:300px;
+    background-color: grey;
+}
+
+.textcontainer{
+    width:100%;
+    height:200px;
+    background-color: rgb(144, 192, 238);
+}
+
+.text1{
+    ;
+}
+
+.text2{
+    display:inline-block;
+    position: relative;
+    margin-left: 40%; 
+    float: center;
+    width:25%;
+}
+
+.text3 {
+    display:inline-block;
+    position: relative;
+    margin-right: 70px; 
+    float: right;
+    width:25%;
+    margin-top: 23px
+}
+
+.soc, .soc1, .soc2, .soc3{
+    display:inline-block;
+    width: 50px;
+	height: 50px;
+	background: red;
+	
+	border-radius: 50px;
+    background-color: grey;
+    margin-left: 200px
+}
+
+f
+
+
+
+
+
+
+  
